@@ -1,7 +1,8 @@
 # odin-landing_page
+"Slay the Spire" is one of my favorite STEAM games. This project is a landing page to call on people to download the game. I apply the CSS knowledge I have learned, especially flex box into it. The design pattern comes from the Odin Project ![the Odin Project webpage design template](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/odin-project.png)
 
 Disclaimer: 
-This project is just created to showcase for what I have learned on the Odin Project. It has nothing to do with the game "Slay the Spire".  
+This project is just created to showcase for what I have learned on the Odin Project. It has nothing to do with the official "Slay the Spire" platform.  
 
 All the images used in this project are from bing search engine under the license of "Free to use and share".
 
