@@ -8,9 +8,9 @@
 
 All the images used in this project are from bing search engine under the license of "Free to use and share".
 
-Screenshot:
+Sample:
 
-![Project Screenshot]()
+![Project Screenshot](./images/sample.gif)
 
 
 1.
